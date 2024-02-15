@@ -1,2 +1,2 @@
 # OREBI
-E-Commerce website 
+E-Commerce website using React components . 
